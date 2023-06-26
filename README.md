@@ -1,7 +1,9 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fmorrisgeorg%2Fany-board%2F&psig=AOvVaw2lKtEAFlESpM0oz2XEfGbI&ust=1687907801277000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC1ptyI4v8CFQAAAAAdAAAAABAG
+[![MasterHead]([href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alijon Nazarov</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2EQzqZJG334djVNSHJDlSu&ust=1687907607157000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCu_oGI4v8CFQAAAAAdAAAAABAD
+
+(img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC]")   
+
 
 - 🌱 I’m currently learning **Python ,Java, React,Next.js ...**
 
