@@ -1,8 +1,7 @@
-[![MasterHead](href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG)]
+[![MasterHead](href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG)
 <h1 align="center">Hi 👋, I'm Alijon Nazarov</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
-
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif")   
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">   
 
 
 - 🌱 I’m currently learning **Python ,Java, React,Next.js ...**
