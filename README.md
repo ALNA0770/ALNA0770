@@ -1,4 +1,4 @@
-[![MasterHead]([href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG))](https://rishavchanda.io)
+[![MasterHead]([href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG))]
 <h1 align="center">Hi 👋, I'm Alijon Nazarov</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
 
