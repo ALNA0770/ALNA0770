@@ -1,19 +1,21 @@
 [![MasterHead](href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG)
 <h1 align="center">Hi 👋, I'm Alijon Nazarov</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">   
+<div align="center">
+<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">   
 
+<h1></h1>
+<h1></h1>
+ 🌱 I’m currently learning **Python ,Java, React,Next.js ...**
 
-- 🌱 I’m currently learning **Python ,Java, React,Next.js ...**
+ 🤝 I’m looking for help with **Inside Islam World**
 
-- 🤝 I’m looking for help with **Inside Islam World**
+ 👨‍💻 All of my projects are available at [Working on it](Working on it)
 
-- 👨‍💻 All of my projects are available at [Working on it](Working on it)
+ 💬 Ask me about **Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS**
 
-- 💬 Ask me about **Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS**
-
-- 📫 How to reach me **nazarov31ali@gmail.com**
-
+ 📫 How to reach me **nazarov31ali@gmail.com**
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alijon-nazarov-aa8616228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alijon-nazarov-aa8616228" height="30" width="40" /></a>
