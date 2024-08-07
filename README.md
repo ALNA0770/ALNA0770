@@ -4,19 +4,17 @@
 </div>
 
 
-<h3 align="center">A passionate front-end developer from Poland</h3>
+<h3 align="center">A passionate Cybersecurity Student </h3>
 <div align="center">
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">   
 
 <h1></h1>
 <h1></h1>
- 🌱 I’m currently learning **Python ,Java, React,Next.js ...**
+ 🌱 I’m currently learning **Python ,Java ...**
 
  🤝 I’m looking for help with **Inside Islam World**
 
- 👨‍💻 All of my projects are available at [Working on it](Working on it)
-
- 💬 Ask me about **Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS**
+ 💬 Ask me about **Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS ...**
 
  📫 How to reach me **nazarov31ali@gmail.com**
 </div>
