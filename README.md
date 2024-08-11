@@ -10,11 +10,10 @@
 
 <h1></h1>
 <h1></h1>
- 🌱 I’m currently learning **Python ,Java ...**
+ 🌱 Exploring and honing my skills in cybersecurity through a series of small projects and scripts. This repository is a growing portfolio that highlights my journey in mastering key cybersecurity concepts and tools.
+ 
+ 💬 Ask me about **Cybersecurity, Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS ...**
 
- 🤝 I’m looking for help with **Inside Islam World**
-
- 💬 Ask me about **Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS ...**
 
  📫 How to reach me **nazarov31ali@gmail.com**
 </div>
