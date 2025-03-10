@@ -4,15 +4,15 @@
 </div>
 
 
-<h3 align="center">A passionate Cybersecurity Student </h3>
+<h3 align="center">A passionate Computer Engineer in Computer Science Student </h3>
 <div align="center">
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">   
 
 <h1></h1>
 <h1></h1>
- 🌱 Exploring and honing my skills in cybersecurity through a series of small projects and scripts. This repository is a growing portfolio that highlights my journey in mastering key cybersecurity concepts and tools.
+ 🌱 Exploring and honing my skills in software engineering and cybersecurity through a series of  projects and scripts. This repository is a growing portfolio that highlights my journey in mastering key cybersecurity concepts and tools.
  
- 💬 Ask me about **Cybersecurity, Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS ...**
+ 💬 Ask me about **JAVA , Cybersecurity, Python,SQL,MySQL,JavaScript,MongoDB,HTML&CSS ...**
 
 
  📫 How to reach me **nazarov31ali@gmail.com**
